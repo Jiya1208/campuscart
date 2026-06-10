@@ -1,4 +1,4 @@
-CampusCart (AcroCart)
+CampusCart (AcroCart) 
 CampusCart is a peer-to-peer marketplace app built for students at Acropolis Institute. It allows us to buy, sell, and trade college essentials like old books, lab coats, calculators, and electronics directly with each other on campus.
 
 Live Link: https://campuscart-9c677.web.app
