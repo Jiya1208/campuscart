@@ -24,3 +24,7 @@ Hosting: Firebase Hosting
 
 Developer
 Kavyansh Singh Rajput
+Jiya Patidar 
+Anmol Soni 
+Aditi Yadav
+
